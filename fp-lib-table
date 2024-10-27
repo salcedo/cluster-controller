@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name cluster-controller-module)(type KiCad)(uri ${KIPRJMOD}/cluster-controller-module.pretty)(options "")(descr ""))
+)

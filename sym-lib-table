@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name cluster-controller-module)(type Legacy)(uri ${KIPRJMOD}/cluster-controller-module.lib)(options "")(descr ""))
+  (lib (name cluster-controller-module-rescue)(type Legacy)(uri ${KIPRJMOD}/cluster-controller-module-rescue.lib)(options "")(descr ""))
+)
